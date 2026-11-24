@@ -5,7 +5,7 @@
 
 Modellazione matematica per l analisi di ROAS, ROI e proiezioni di scala con rendimenti decrescenti per investimenti pubblicitari aziendali.
 
-Sviluppato e gestito dalla divisione di ingegneria dei ricavi e performance marketing di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di ingegneria dei ricavi e performance marketing di **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 Per simulazioni grafiche e proiezioni di budget per campagne aziendali, consultare lo strumento ufficiale:
 
 * **Calcolatore ROI Traffico a Pagamento**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza in Performance ed Econometria
 
-Per la revisione di campagne e l ottimizzazione dei ritorni pubblicitari in Italia, contattare gli specialisti di **TAVARDT Italia**.
+Per la revisione di campagne e l ottimizzazione dei ritorni pubblicitari in Italia, contattare gli specialisti di **TAVARDT**.
 
 ***
 
