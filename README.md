@@ -1,4 +1,4 @@
-# Intelligenza e Modellazione ROI per Traffico a Pagamento | TAVARDT Italia
+# Intelligenza e Modellazione ROI per Traffico a Pagamento
 
 [![Calcolatore ROI](https://img.shields.io/badge/TAVARDT-Calcolatore%20ROI-5b3cf5.svg)](https://tools.tavardt.com/it/calcolatore-roi-traffico-a-pagamento/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Per simulazioni grafiche e proiezioni di budget per campagne aziendali, consulta
 ## Consulenza in Performance ed Econometria
 
 Per la revisione di campagne e l ottimizzazione dei ritorni pubblicitari in Italia, contattare gli specialisti di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
